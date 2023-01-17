@@ -18,7 +18,7 @@ Personal projects available on github:
 <b>School projects available upon request:</b>
 * 
 
-<h2> Coding Languages! <img src="https://gifdb.com/images/thumbnail/bongo-cat-typing-f393t7cevkw08k3q.gif" width="35"></h2>
+<h2><img src="https://gifdb.com/images/thumbnail/bongo-cat-typing-f393t7cevkw08k3q.gif" width="35">Coding Languages!</h2>
 
 <b> Main coding language: </b> 
 
@@ -28,7 +28,7 @@ Personal projects available on github:
 
 * C, C++, Python, Verilog, Arm Assembly
 
-<h2>Hobbies:</h2>
+<h2><img src="https://i.pinimg.com/originals/e0/5e/61/e05e6141da33580ee2677ff7cbff7139.gif" width="45">Hobbies:</h2>
 
 🎵Playing musical instruments (here are some performances~)
 * <a href="https://drive.google.com/file/d/1drr6fn1aSTPCS7d_rdzhv7uKc68kl8WC/view?usp=sharing"> Senorita Flute, Violin, Piano Trio (my friends and I) </a>
