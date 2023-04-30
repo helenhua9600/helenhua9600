@@ -16,6 +16,8 @@ Personal projects available on github:
 * cardboard chair
 
 <b>School projects available upon request:</b>
+* 2048 and tic tac toe (group project)
+* Dancing robot (group project)
 * 
 
 <h2><img src="https://gifdb.com/images/thumbnail/bongo-cat-typing-f393t7cevkw08k3q.gif" width="35">Coding Languages!</h2>
