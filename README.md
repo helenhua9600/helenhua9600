@@ -46,7 +46,7 @@ I'm an aspiring Computer Engineer at <a href="https://www.ubc.ca/">University of
 
 
 <h2>📫Contacts </h2>
-<a href="https://www.instagram.com/helenhua9600/"> Instagram</a> | <a href="https://www.facebook.com/helen.hua.7773"> Facebook</a> | email: helenhua999@gmail.com
+<a href="https://www.linkedin.com/in/helen-hua-49b277214/"> LinkedIn</a> | <a href="https://www.instagram.com/helenhua9600/"> Instagram</a> | <a href="https://www.facebook.com/helen.hua.7773"> Facebook</a> | email: helenhua999@gmail.com
 
 
 
