@@ -3,7 +3,8 @@
 I'm an aspiring Computer Engineer at <a href="https://www.ubc.ca/">University of British Columbia </a> and am currently open to 4-8 month co-ops!
 
 <h2> 💻 Projects (making in progress)</h2>
-Personal projects available on github:
+
+<b>Personal projects available on github:</b>
 
 * Anagram Detector  
 * ZooDirectory
@@ -11,14 +12,16 @@ Personal projects available on github:
 * Connect Four
 * TrafficLights
 
-<b>School projects available on github:</b>
-* Arduino claw
-* cardboard chair
-
 <b>School projects available upon request:</b>
+
 * 2048 and tic tac toe (group project)
 * Dancing robot (group project)
-* 
+* Arduino claw (group project)
+* cardboard chair (group project)
+* Multi-Client Twitter Service (group project)
+* Sentiment Analyzer & Search Autocompletion (group project)
+* Basic 16-bit Turing Complete CPU (individual project)
+* Dancing robot (group project)
 
 <h2><img src="https://gifdb.com/images/thumbnail/bongo-cat-typing-f393t7cevkw08k3q.gif" width="35">Coding Languages!</h2>
 
