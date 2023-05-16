@@ -27,11 +27,11 @@ I'm an aspiring Computer Engineer at <a href="https://www.ubc.ca/">University of
 
 <b> Main coding language: </b> 
 
-* Java
+* Java, C++
 
 <b> Other coding language: </b>
 
-* C, C++, Python, Verilog, Arm Assembly
+* C, HTML, CSS, Node.js, Javascript, Python, Verilog, Arm Assembly
 
 <h2><img src="https://i.pinimg.com/originals/e0/5e/61/e05e6141da33580ee2677ff7cbff7139.gif" width="45">Hobbies:</h2>
 
