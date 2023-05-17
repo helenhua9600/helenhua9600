@@ -15,13 +15,12 @@ I'm an aspiring Computer Engineer at <a href="https://www.ubc.ca/">University of
 <b>School projects available upon request:</b>
 
 * 2048 and tic tac toe (group project)
-* Dancing robot (group project)
-* Arduino claw (group project)
-* cardboard chair (group project)
-* Multi-Client Twitter Service (group project)
-* Sentiment Analyzer & Search Autocompletion (group project)
+* <a href="https://github.com/helenhua9600/Dancing-Robot"> Dancing robot (group project) </a>
+* <a href="https://github.com/helenhua9600/Arduino-Claw"> Arduino claw (group project) </a>
+* <a href="https://drive.google.com/file/d/1XMgLpLjlyYi9H2dq5SyU2drz8b6erJPX/view?usp=sharing"> Maasai cardboard chair (group project, no code used) </a>
+* <a href="https://cpen221ubc.notion.site/Message-Queues-Pub-Sub-with-Twitter-c6656579f3794b268c74afcf0e9b4fe4"> Multi-Client Twitter Service (group project) </a>
+* <a href="https://cpen221ubc.notion.site/n-grams-Autocompletion-and-Gender-Bias-a1354ae0091d4f5bac9aa6caa8310b51"> Sentiment Analyzer & Search Autocompletion (group project) </a>
 * Basic 16-bit Turing Complete CPU (individual project)
-* Dancing robot (group project)
 
 <h2><img src="https://gifdb.com/images/thumbnail/bongo-cat-typing-f393t7cevkw08k3q.gif" width="35">Coding Languages!</h2>
 
