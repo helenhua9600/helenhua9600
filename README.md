@@ -15,6 +15,7 @@ I'm an aspiring Computer Engineer at <a href="https://www.ubc.ca/">University of
 <b>School projects available upon request:</b>
 
 * 2048 and tic tac toe (group project)
+* <a href="https://github.com/helenhua9600/Smart-Box"> Smart Box (group project) </a>
 * <a href="https://github.com/helenhua9600/Dancing-Robot"> Dancing robot (group project) </a>
 * <a href="https://github.com/helenhua9600/Arduino-Claw"> Arduino claw (group project) </a>
 * <a href="https://drive.google.com/file/d/1XMgLpLjlyYi9H2dq5SyU2drz8b6erJPX/view?usp=sharing"> Maasai cardboard chair (group project, no code used) </a>
