@@ -1,11 +1,12 @@
 <h2> Hello there, I'm Helen Hua! <img src="https://media.tenor.com/Wtn8qFUD9EIAAAAM/hello-wave.gif" width="65"></h2>
 
-I'm an aspiring Computer Engineer at <a href="https://www.ubc.ca/">University of British Columbia </a> and am currently open to 8-12 month co-ops!
+I'm an aspiring Computer Engineer at <a href="https://www.ubc.ca/">University of British Columbia </a> and am currently open to 4 month co-ops starting April 2024!
 
 <h2> 💻 Projects (making in progress)</h2>
 
 <b>Personal projects available on github:</b>
 
+* Comfy Corner Webpage
 * Anagram Detector  
 * ZooDirectory
 * TicTacToe 
