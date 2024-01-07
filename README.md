@@ -6,6 +6,7 @@ I'm an aspiring Computer Engineer at <a href="https://www.ubc.ca/">University of
 
 <b>Personal projects available on github:</b>
 
+* Minute Mood (Hackathon: HackCamp 2023)
 * Comfy Corner Webpage
 * Anagram Detector  
 * ZooDirectory
